@@ -2,7 +2,7 @@ modLoader="javafml"
 
 loaderVersion="[31,)"
 
-issueTrackerURL="http://my.issue.tracker/"
+issueTrackerURL="https://github.com/IronNuggetStudios/SimplyBeans/issues"
 
 [[mods]]
 
@@ -14,7 +14,7 @@ displayName="Simply Beans"
 
 updateJSONURL="http://myurl.me/"
 
-displayURL="http://example.com/"
+displayURL="https://github.com/IronNuggetStudios/SimplyBeans/wiki"
 
 logoFile="examplemod.png"
 
@@ -23,7 +23,7 @@ credits="Brynn & Sam"
 authors="ironnugget"
 
 description='''
-Adds growable ores in the form of beans!!.
+    Adds growable ores in the form of beans!!.
 
 '''
 
