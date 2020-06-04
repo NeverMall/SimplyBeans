@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    },
+    {
+      "item": "simplybeans:redstone_bean"
+    }
+  ],
+  "result": {
+    "item": "simplybeans:redstone_soup"
+  }
+}

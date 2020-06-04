@@ -1,0 +1,31 @@
+{
+	"item.simplybeans.coal_bean": "Coal Bean",
+	"item.simplybeans.iron_bean": "Iron Bean",
+	"item.simplybeans.gold_bean": "Gold Bean",
+	"item.simplybeans.lapis_bean": "Lapis Bean",
+	"item.simplybeans.redstone_bean": "Redstone Bean",
+	"item.simplybeans.quartz_bean": "Quartz Bean",
+	"item.simplybeans.diamond_bean": "Diamond Bean",
+	"item.simplybeans.emerald_bean": "Emerald Bean",
+	
+	"item.simplybeans.coal_soup": "Coal Soup",
+	"item.simplybeans.iron_soup": "Iron Soup",
+	"item.simplybeans.gold_soup": "Gold Soup",
+	"item.simplybeans.lapis_soup": "Lapis Soup",
+	"item.simplybeans.redstone_soup": "Redstone Soup",
+	"item.simplybeans.quartz_soup": "Quartz Soup",
+	"item.simplybeans.diamond_soup": "Diamond Soup",
+	"item.simplybeans.emerald_soup": "Emerald Soup",
+	
+	"block.simplybeans.coal_bean": "Coal Bean",
+	"block.simplybeans.iron_bean": "Iron Bean",
+	"block.simplybeans.gold_bean": "Gold Bean",
+	"block.simplybeans.lapis_bean": "Lapis Bean",
+	"block.simplybeans.redstone_bean": "Redstone Bean",
+	"block.simplybeans.quartz_bean": "Quartz Bean",
+	"block.simplybeans.diamond_bean": "Diamond Bean",
+	"block.simplybeans.emerald_bean": "Emerald Bean",
+	
+	#Creative Tab
+	"itemGroup.simplybeans": "Simply Beans"
+}	

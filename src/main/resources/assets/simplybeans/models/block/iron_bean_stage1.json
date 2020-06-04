@@ -1,0 +1,27 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "simplybeans:blocks/iron_bean_stage1",
+        "bean": "simplybeans:blocks/iron_bean_stage1"
+    },
+    "elements": [
+        {   "from": [ 5, 5, 9 ],
+            "to": [ 11, 12, 15 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0,  6,  6 ], "texture": "#bean" },
+                "up":    { "uv": [ 0, 0,  6,  6 ], "texture": "#bean" },
+                "north": { "uv": [ 9, 4, 15, 11 ], "texture": "#bean" },
+                "south": { "uv": [ 9, 4, 15, 11 ], "texture": "#bean" },
+                "west":  { "uv": [ 9, 4, 15, 11 ], "texture": "#bean" },
+                "east":  { "uv": [ 9, 4, 15, 11 ], "texture": "#bean" }
+            }
+        },
+        {   "from": [ 8, 12, 12 ],
+            "to": [ 8, 16, 16 ],
+            "faces": {
+                "west": { "uv": [ 12, 0, 16, 4 ], "texture": "#bean" },
+                "east": { "uv": [ 16, 0, 12, 4 ], "texture": "#bean" }
+            }
+        }
+    ]
+}

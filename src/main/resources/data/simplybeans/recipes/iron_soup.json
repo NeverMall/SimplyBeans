@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    },
+    {
+      "item": "simplybeans:iron_bean"
+    }
+  ],
+  "result": {
+    "item": "simplybeans:iron_soup"
+  }
+}

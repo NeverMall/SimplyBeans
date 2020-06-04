@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "simplybeans:items/gold_bean_soup"
+    }
+}

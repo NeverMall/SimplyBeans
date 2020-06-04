@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz_block"
+    },
+    "X": {
+      "tag": "simplybeans:beans_tier2"
+    }
+  },
+  "result": {
+    "item": "simplybeans:quartz_bean"
+  }
+}

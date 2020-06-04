@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "simplybeans:iron_bean"
+    }
+  ],
+  "result": "minecraft:iron_nugget",
+  "experience": 0.1,
+  "cookingtime": 100
+}

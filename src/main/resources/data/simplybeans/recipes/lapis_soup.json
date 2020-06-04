@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    },
+    {
+      "item": "simplybeans:lapis_bean"
+    }
+  ],
+  "result": {
+    "item": "simplybeans:lapis_soup"
+  }
+}

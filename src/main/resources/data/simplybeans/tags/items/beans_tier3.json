@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "simplybeans:lapis_bean",
+    "simplybeans:redstone_bean",
+    "simplybeans:quartz_bean"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    },
+    {
+      "item": "simplybeans:quartz_bean"
+    }
+  ],
+  "result": {
+    "item": "simplybeans:quartz_soup"
+  }
+}

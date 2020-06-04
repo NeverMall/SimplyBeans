@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "simplybeans:lapis_bean"
+    }
+  },
+  "result": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}

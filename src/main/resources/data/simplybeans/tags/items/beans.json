@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "simplybeans:coal_bean",
+    "simplybeans:iron_bean",
+    "simplybeans:gold_bean",
+    "simplybeans:lapis_bean",
+    "simplybeans:redstone_bean",
+    "simplybeans:quartz_bean",
+    "simplybeans:diamond_bean",
+    "simplybeans:emerald_bean"
+  ]
+}

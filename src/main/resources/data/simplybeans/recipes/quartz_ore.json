@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    },
+    "X": {
+      "item": "simplybeans:quartz_bean"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_quartz_ore"
+  }
+}

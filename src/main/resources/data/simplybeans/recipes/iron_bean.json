@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "tag": "simplybeans:beans_tier1"
+    }
+  },	
+  "result": {
+    "item": "simplybeans:iron_bean"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    },
+    {
+      "item": "simplybeans:gold_bean"
+    }
+  ],
+  "result": {
+    "item": "simplybeans:gold_soup"
+  }
+}

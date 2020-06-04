@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "X": {
+      "tag": "simplybeans:beans_tier3"
+    }
+  },
+  "result": {
+    "item": "simplybeans:diamond_bean"
+  }
+}
