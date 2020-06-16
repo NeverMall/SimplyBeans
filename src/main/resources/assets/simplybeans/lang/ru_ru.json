@@ -1,0 +1,31 @@
+{
+	"item.simplybeans.coal_bean": "Боб-уголь",
+	"item.simplybeans.iron_bean": "Боб-железо",
+	"item.simplybeans.gold_bean": "Боб-золото",
+	"item.simplybeans.lapis_bean": "Боб-лазурит",
+	"item.simplybeans.redstone_bean": "Боб-редстоун",
+	"item.simplybeans.quartz_bean": "Боб-кварц",
+	"item.simplybeans.diamond_bean": "Боб-алмаз",
+	"item.simplybeans.emerald_bean": "Боб-изумруд",
+	
+	"item.simplybeans.coal_soup": "Суп из угля",
+	"item.simplybeans.iron_soup": "Суп из железа",
+	"item.simplybeans.gold_soup": "Суп из золота",
+	"item.simplybeans.lapis_soup": "Суп из лазурита",
+	"item.simplybeans.redstone_soup": "Суп из редстоуна",
+	"item.simplybeans.quartz_soup": "Суп из кварца",
+	"item.simplybeans.diamond_soup": "Суп из алмаза",
+	"item.simplybeans.emerald_soup": "Суп из изумруда",
+	
+	"block.simplybeans.coal_bean": "Боб-уголь",
+	"block.simplybeans.iron_bean": "Боб-железо",
+	"block.simplybeans.gold_bean": "Боб-золото",
+	"block.simplybeans.lapis_bean": "Боб-лазурит",
+	"block.simplybeans.redstone_bean": "Боб-редстоун",
+	"block.simplybeans.quartz_bean": "Боб-кварц",
+	"block.simplybeans.diamond_bean": "Боб-алмаз",
+	"block.simplybeans.emerald_bean": "Боб-изумруд",
+	
+	#Creative Tab
+	"itemGroup.simplybeans": "Просто бобы"
+}	
